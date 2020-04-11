@@ -49,3 +49,30 @@ for (let i = 0; i < size; i++) {   /*in the outer loop we add newline to seperat
 }
 
 console.log(board);
+
+//write a func min that takes two arguments and returns their minimum.  
+
+const min = (a, b) => {
+  return Math.min(10, 61 )
+}
+
+min() 
+
+//Define a recursive function isEven the func should accept a single parameter(positive whole number) and return a boolean 
+
+const isEven = (num) => {
+  if(num < 0){
+      return isEven(-num) 
+  }
+  else if(num == 1){
+    return false 
+  }
+  else if(num == 0) {
+    return true 
+  }
+  else{
+    return isEven( num - 2)
+  }
+}
+isEven(2)
+
