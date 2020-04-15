@@ -84,7 +84,6 @@ group.add(10);
 group.delete(10);
 console.log(group.has(10))
 
-
 //Borrowing a method:
 
 let map = {one: true, two: true, hasOwnProperty: true};
