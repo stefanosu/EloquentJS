@@ -1,2 +1,4 @@
 # EloquentJS
-Exercise problems from EloquentJS 
+Exercise problems EloquentJS 
+
+##Chapter 1. Values, Types and Operators. 
