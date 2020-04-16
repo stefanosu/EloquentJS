@@ -1,4 +1,4 @@
 # EloquentJS
 Exercise problems EloquentJS 
 
-## Chapter 1. Values, Types and Operators. 
+#### Chapter 1. Values, Types and Operators. 
